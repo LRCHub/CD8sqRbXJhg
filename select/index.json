@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Almond Chocolate",
+  "base_artist": "ILLIT",
+  "createdAt": "2025-12-03T06:44:50.191119Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Almond Chocolate",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/01_Almond_Chocolate_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Almond Chocolate (Korean Ver.)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/02_Almond_Chocolate_(Korean_Ver.)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Almond Chocolate",
+      "artist": "ILLIT (아일릿)",
+      "has_synced": true,
+      "path": "select/03_Almond_Chocolate_ILLIT_(아일릿).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Almond Chocolate",
+      "artist": "아일릿 (ILLIT)",
+      "has_synced": true,
+      "path": "select/04_Almond_Chocolate_아일릿_(ILLIT).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Almond Chocolate",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_Almond_Chocolate_ILLIT.txt"
+    }
+  ]
+}
